@@ -1,7 +1,7 @@
 {
-  "Title": "sports-box",
+  "Title": "Sports: Box",
   "Type": "map",
-  "Org": "local",
+  "Org": "eagletavern",
   "Ident": "sports_box",
   "Schema": 1,
   "HasAssets": true,
