@@ -1,0 +1,14 @@
+{
+  "Title": "sports-box",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "sports_box",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
